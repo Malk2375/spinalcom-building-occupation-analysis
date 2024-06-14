@@ -1,5 +1,3 @@
-### Réalisation d’une interface web d’analyse de l’occupation d’un bâtiment intelligent
-
 # Application d'Occupation des Pièces d'un Bâtiment
 
 Cette application affiche l'occupation des pièces d'un bâtiment, classée par étage. Le statut d'occupation peut être TRUE (occupée), FALSE (non occupée) ou UNDEFINED (inconnu). L'application est développée avec Vue.js version 2.x.x et interagit avec l'API SpinalCom pour récupérer les données des pièces.
